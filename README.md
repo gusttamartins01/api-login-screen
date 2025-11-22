@@ -132,7 +132,3 @@ Notas adicionais
 - Script de exemplo Node: [teste.js](teste.js) (não relacionado à app React, usa prompt-sync).
 - Linter configurado em [eslint.config.js](eslint.config.js).
 - Pacotes principais: React 19, Vite, Tailwind, lucide-react.
-
-Se quiser, eu posso:
-- Gerar um README.md pronto para projeto.
-- Aplicar correções automáticas sugeridas (ex.: corrigir typos em estilos e o import `ReactDOM`) — diga qual arquivo editar e eu gero o patch.
